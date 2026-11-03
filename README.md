@@ -25,5 +25,5 @@ I am a Computer Engineering undergraduate with a strong foundation in system arc
   A sales intelligence platform designed to process transaction and customer funnel data, generating automated growth insights for small businesses.
 
 ## 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/seu-perfil](link-do-seu-linkedin)
-* **Email:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
+* **LinkedIn:** [linkedin.com/in/seu-perfil](www.linkedin.com/in/augusto-ferrer-011509334)
+* **Email:** [seu-email@dominio.com](mailto:augustoferrer3011@gmail.com)
