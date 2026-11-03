@@ -8,7 +8,7 @@ I am a Computer Engineering undergraduate with a strong foundation in system arc
 * **Languages:** Python, Java, C/C++, SQL
 * **Backend & APIs:** FastAPI, RESTful Architecture, SQLite
 * **Data Science & GIS:** GeoPandas, OSMnx, Shapely, Data Modeling
-* **Embedded Systems:** Raspberry Pi Pico (C SDK), Hardware Integration
+* **Embedded Systems:** STM32CubeIDE, Raspberry Pi Pico (C SDK), Hardware Integration
 
 ## 🚀 Featured Projects
 
